@@ -6,7 +6,7 @@
 
 **the size of the window** - put in {x,y} for this one! (x being the width, and y being the height)
 
-**the position of the window** - put in {x,y} for this one too! use "defaultPos" for the x, and/or the y to use the default position!
+**the position of the window** - put in {x,y} for this one too! if you want, you can use "defaultPos" for the x, and/or the y to use the default position!
 
 here's an example:
 
