@@ -1,3 +1,5 @@
+### NOTE: WINDOWS AND C++ IS *REQUIRED*
+
 *create windows easily! no need to make your own windows function with the oh so tedious "WinMain", just call newWindow and put in the arguments (in order):
 
 **the window name** - anything you want it to be
